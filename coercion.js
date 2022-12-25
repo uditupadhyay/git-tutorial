@@ -4,3 +4,4 @@ console.log("hi");
 console.log(console.log);
 typeof(console.log(console.log));
 console.log(typeof(10-"udit")=="number");
+console.log("hyy");
